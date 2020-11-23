@@ -12,4 +12,4 @@ client.on("message" , message => {
         message.channel.send(`🏓 pong - ${client.ws.ping}`)
     }
 })
-client.login("NzgwMzAwMTQ4NTYzMzc4MTg2.X7tFJA.jSCjT2gnj_u-JQCgoO8J5_cjeTg") 
+client.login("NzgwMzAwMTQ4NTYzMzc4MTg2.X7tFJA.WfuN2IthBfdN0viZk2D0jNPavAI") 
